@@ -1,2 +1,6 @@
 # Datacamp
-Engage with real-world challenges using data notebooks. Apply your knowledge to real scenarios in a practical environment.
+Applying knowledge to real scenarios in a practical environment.
+
+<h4>Project 2:</h4>
+<h4>Project 3:</h4>
+<h4>Project 4:</h4>
